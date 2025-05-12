@@ -1,16 +1,26 @@
-## Hi there 👋
+## 💼 Experience
 
-<!--
-**adhyaay-karnwal/adhyaay-karnwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Marketing + dev intern @ [bluemintai.com](https://bluemintai.com)  
+Co-founder of [adcreateai.com](https://adcreateai.com) – because ads can be made in seconds with ai
+Founder of [onboardingbuddy.lovable.app](https://onboardingbuddy.lovable.app) – your AI repository analyzer
+AI engineer @ [splai.dev](https://splai.dev) – level up vibe coding and stop 99.9% of hallucinations
+Currently vibing on **VibeGuard** – a security layer for your works
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Currently Learning
+
+- Industrial confusion & inconvenience engineering  
+- Force push and pray  
+- Verbose abstraction *(as it applies to cubic regression and heartbreak)*  
+- Liquification (don’t ask)  
+- Analytical analysis  
+- Rats *(those lil cheese-eating gray guys — they're up to something)*  
+- If `nonsense` ever hits GitHub trending, I’m going full Arch
+
+---
+
+## 🧪 Currently Making
+
+- **VibeGuard** – security and stuff
+- **$0** – but spiritually, I’m rich
