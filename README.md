@@ -1,9 +1,9 @@
 ## 💼 Experience
 
-Marketing + dev intern @ [bluemintai.com](https://bluemintai.com)  
-Co-founder of [adcreateai.com](https://adcreateai.com) – because ads can be made in seconds with ai
-Founder of [onboardingbuddy.lovable.app](https://onboardingbuddy.lovable.app) – your AI repository analyzer
-AI engineer @ [splai.dev](https://splai.dev) – level up vibe coding and stop 99.9% of hallucinations
+Marketing + dev intern @ [bluemintai.com](https://bluemintai.com)  <br>
+Co-founder of [adcreateai.com](https://adcreateai.com) – because ads can be made in seconds with AI  <br>
+Founder of [onboardingbuddy.lovable.app](https://onboardingbuddy.lovable.app) – your AI repository analyzer  <br>
+AI engineer @ [splai.dev](https://splai.dev) – level up vibe coding and stop 99.9% of hallucinations  <br>
 Currently vibing on **VibeGuard** – a security layer for your works
 
 ---
