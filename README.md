@@ -12,13 +12,7 @@ Currently vibing on **Monarch** – an AI agent that lives on your computer
 
 ## 📚 Currently Learning
 
-- Industrial confusion & inconvenience engineering  
-- Force push and pray  
-- Verbose abstraction *(as it applies to cubic regression and heartbreak)*  
-- Liquification (don’t ask)  
-- Analytical analysis  
-- Rats *(those lil cheese-eating gray guys — they're up to something)*  
-- If `nonsense` ever hits GitHub trending, I’m going full Arch
+- who knows
 
 ---
 
