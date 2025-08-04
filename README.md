@@ -6,7 +6,7 @@ Founder of [onboardingbuddy.lovable.app](https://onboardingbuddy.lovable.app) �
 AI engineer @ [splai.dev](https://splai.dev) – level up vibe coding and stop 99.9% of hallucinations  <br>
 Built vibeguard [vibeguard.tech](https://vibeguard.tech) - AI powered security insights for vibecoders <br>
 Building the next biggest app [takeawaysapp](https://www.takeawaysai.io/) <br>
-Currently vibing on **Monarch** – an AI agent that lives on your computer
+Locked in for [Wind](https://trywind.vercel.app) – My next startup - [wind github](https://github.com/Try-Wind)
 
 ---
 
