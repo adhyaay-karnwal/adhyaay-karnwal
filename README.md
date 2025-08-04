@@ -1,10 +1,13 @@
-## 💼 Experience
+## 💼 Experience <br>
 
+Past: <br>
 Previously marketing + dev intern @ [bluemintai.com](https://bluemintai.com)  <br>
 Co-founder of [adcreateai.com](https://adcreateai.com) – because ads can be made in seconds with AI  <br>
 Founder of [onboardingbuddy.lovable.app](https://onboardingbuddy.lovable.app) – your AI repository analyzer  <br>
 AI engineer @ [splai.dev](https://splai.dev) – level up vibe coding and stop 99.9% of hallucinations  <br>
 Built vibeguard [vibeguard.tech](https://vibeguard.tech) - AI powered security insights for vibecoders <br>
+
+Current: <br>
 Building the next biggest app [takeawaysapp](https://www.takeawaysai.io/) <br>
 Locked in for [Wind](https://trywind.vercel.app) – My next startup - [wind github](https://github.com/Try-Wind)
 
@@ -18,7 +21,7 @@ Locked in for [Wind](https://trywind.vercel.app) – My next startup - [wind git
 
 ## 🧪 Currently Making
 
-- **VibeGuard** – security and stuff
+- **Wind** – Memory layer for every LLM
 - **Takeaways App** – cool stuff abouta drop
-- **$0** – but spiritually, I’m rich
-- Monarch - ul see
+- **$0** – yeah
+- Monarch - maybe
