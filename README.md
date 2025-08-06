@@ -1,4 +1,8 @@
 ## 💼 Experience <br>
+Current: <br>
+Building the next biggest app [takeawaysapp](https://www.takeawaysai.io/) <br>
+Locked in for [Wind](https://trywind.vercel.app) – My next startup - [wind github](https://github.com/Try-Wind) <br>
+Just launched [Wake](https://github.com/Try-Wind/Wake) - A hardware-first coding agent - by [Wind](https://trywind.vercel.app)
 
 Past: <br>
 Previously marketing + dev intern @ [bluemintai.com](https://bluemintai.com)  <br>
@@ -7,9 +11,7 @@ Founder of [onboardingbuddy.lovable.app](https://onboardingbuddy.lovable.app) �
 AI engineer @ [splai.dev](https://splai.dev) – level up vibe coding and stop 99.9% of hallucinations  <br>
 Built vibeguard [vibeguard.tech](https://vibeguard.tech) - AI powered security insights for vibecoders <br>
 
-Current: <br>
-Building the next biggest app [takeawaysapp](https://www.takeawaysai.io/) <br>
-Locked in for [Wind](https://trywind.vercel.app) – My next startup - [wind github](https://github.com/Try-Wind)
+
 
 ---
 
