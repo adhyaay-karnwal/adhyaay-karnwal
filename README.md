@@ -11,7 +11,15 @@ Founder of [onboardingbuddy.lovable.app](https://onboardingbuddy.lovable.app) �
 AI engineer @ [splai.dev](https://splai.dev) – level up vibe coding and stop 99.9% of hallucinations  <br>
 Built vibeguard [vibeguard.tech](https://vibeguard.tech) - AI powered security insights for vibecoders <br>
 
+---
 
+## 🧪 Currently Making
+
+- **Wind** – Memory layer for every LLM
+- **Wake** - Hardware-first coding agent
+- **Takeaways App** – cool stuff abouta drop
+- **$0** – yeah
+- Monarch - maybe
 
 ---
 
@@ -19,11 +27,4 @@ Built vibeguard [vibeguard.tech](https://vibeguard.tech) - AI powered security i
 
 - who knows
 
----
 
-## 🧪 Currently Making
-
-- **Wind** – Memory layer for every LLM
-- **Takeaways App** – cool stuff abouta drop
-- **$0** – yeah
-- Monarch - maybe
