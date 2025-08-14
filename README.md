@@ -23,8 +23,9 @@ Built vibeguard [vibeguard.tech](https://vibeguard.tech) - AI powered security i
 
 ---
 
-## 📚 Currently Learning
+## 📚 Other stuff
 
-- who knows
+- [Monarch Coder](https://monarchdex.vercel.app/) - Ran out of credits so won't work
+- [Luna](https://thatslunabased.vercel.app) - Website for Luna
 
 
