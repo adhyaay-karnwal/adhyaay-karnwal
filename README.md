@@ -15,7 +15,7 @@ Built vibeguard [vibeguard.tech](https://vibeguard.tech) - AI powered security i
 
 ## 🧪 Currently Making
 
-- **Wind** – Memory layer for every LLM
+- **Wind** – A startup thats gonna be big(+ some cool opensource projects)
 - **Wake** - Hardware-first coding agent
 - **Takeaways App** – cool stuff abouta drop
 - **$0** – yeah
