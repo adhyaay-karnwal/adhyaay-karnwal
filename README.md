@@ -4,7 +4,7 @@ Building the next biggest app [takeawaysapp](https://www.takeawaysai.io/) <br>
 Locked in for [Wind](https://trywind.vercel.app) – My next startup - [wind github](https://github.com/Try-Wind) <br>
 Launching [Breeze](https://trybreeze.vercel.app/) - An autonomous cloud coder that ships what you can't 24/7
 Just launched [Wake](https://github.com/Try-Wind/Wake) - A hardware-first coding agent - by [Wind](https://trywind.vercel.app)
-Co-founder [Dynaprompts](https://dynaprompts.com) launching septemeber 2025. [X](https://x.com/dynaprompts)
+Co-founder [Dynaprompts](https://dynaprompts.com) launching septemeber 2025. [X.com for dyna](https://x.com/dynaprompts)
 
 Past: <br>
 Previously marketing + dev intern @ [bluemintai.com](https://bluemintai.com)  <br>
