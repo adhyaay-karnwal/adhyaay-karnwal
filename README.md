@@ -1,8 +1,8 @@
 ## 💼 Experience <br>
 Current: <br>
 Building the next biggest app [takeawaysapp](https://www.takeawaysai.io/) <br>
-Locked in for [Wind](https://trywind.vercel.app) – My next startup - [wind github](https://github.com/Try-Wind) <br>
-**Launching [Breeze](https://breeze.engineer/) - An autonomous cloud coder that ships what you can't 24/7 **<br>
+Locked in for [Wind](https://trywind.vercel.app) – My next startup - [wind github](https://github.com/Try-Wind) <br> <br>
+Launching [Breeze](https://breeze.engineer/) - An autonomous cloud coder that ships what you can't 24/7 <br> <br>
 Just launched [Wake](https://github.com/Try-Wind/Wake) - A hardware-first coding agent - by [Wind](https://trywind.vercel.app) <br>
 Co-founder [Dynaprompts](https://dynaprompts.com) launched september 2025. [X.com for dyna](https://x.com/dynaprompts) <br>
 
