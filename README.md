@@ -18,7 +18,7 @@ Built vibeguard [vibeguard.tech](https://vibeguard.tech) - AI powered security i
 ## 🧪 Currently Making
 
 - **Wind** – A startup thats gonna be big(+ some cool opensource projects)
-- **Breeze** - Hopefully I wont procrasinate
+- **Breeze** - [Launching soon](https://breeze.engineer/)
 - **Wake** - Hardware-first coding agent
 - **Takeaways App** – cool stuff abouta drop
 - **$0** – yeah
