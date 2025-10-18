@@ -7,7 +7,7 @@ Just launched [Wake](https://github.com/Try-Wind/Wake) - A hardware-first coding
 Co-founder [Dynaprompts](https://dynaprompts.com) launched september 2025. [X.com for dyna](https://x.com/dynaprompts) <br>
 
 Past: <br>
-Founding engineer @ [StarCy](https://starcy.ai)
+Founding engineer @ [StarCy](https://starcy.ai) <br>
 Previously marketing + dev intern @ [bluemintai.com](https://bluemintai.com)  <br>
 Co-founder of [adcreateai.com](https://adcreateai.com) – because ads can be made in seconds with AI  <br>
 Founder of [onboardingbuddy.lovable.app](https://onboardingbuddy.lovable.app) – your AI repository analyzer(Acquired)  <br>
