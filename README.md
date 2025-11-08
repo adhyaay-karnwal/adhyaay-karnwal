@@ -8,7 +8,7 @@ Co-founder [Dynaprompts](https://dynaprompts.com) launched september 2025. [X.co
 SWE @ [Luna](https://x.com/thatslunabased) <br> 
 
 Past: <br>
-Founding engineer @ [StarCy](https://starcy.ai) <br>
+Founding engineer @ [StarCy](https://starcy.ai) - they stole the app I build from the ground up and terminated me<br>
 Co-founder of [adcreateai.com](https://adcreateai.com) <br>
 Founder of [onboardingbuddy.lovable.app](https://onboardingbuddy.lovable.app) – your AI repository analyzer(Acquired)  <br>
 AI engineer @ [splai.dev](https://splai.dev) <br>
