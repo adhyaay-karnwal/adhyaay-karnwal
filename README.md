@@ -1,35 +1,68 @@
-## 💼 Experience <br>
-Current: <br>
-Building [takeawaysapp](https://www.takeawaysai.io/) <br>
-Built [Wind](https://trywind.vercel.app) – [wind github](https://github.com/Try-Wind) <br> <br>
-Launching [Breeze](https://breeze.engineer/) - An autonomous cloud coder that ships what you can't 24/7 <br> <br>
-Launched [Wake](https://github.com/Try-Wind/Wake) - A hardware-first coding agent - by [Wind](https://trywind.vercel.app) <br>
-Co-founder [Dynaprompts](https://dynaprompts.com) launched september 2025. [X.com for dyna](https://x.com/dynaprompts) <br> 
-SWE @ [Luna](https://x.com/thatslunabased) <br> 
+## Experience
 
-Past: <br>
-Founding engineer @ [StarCy](https://starcy.ai) - they stole the app I build from the ground up and terminated me<br>
-Co-founder of [adcreateai.com](https://adcreateai.com) <br>
-Founder of [onboardingbuddy.lovable.app](https://onboardingbuddy.lovable.app) – your AI repository analyzer(Acquired)  <br>
-AI engineer @ [splai.dev](https://splai.dev) <br>
-Built vibeguard [vibeguard.tech](https://vibeguard.tech) - AI powered security insights for vibecoders <br>
+### Current
+**Forward-Deployed Backend Engineer — [Nura](https://www.nura.construction/)**  
+AI intelligence layer for real estate (valued at $2M+)  
+- Building core backend systems, AI infrastructure, and production deployments.
+
+**Software Engineer — [Luna](https://x.com/thatslunabased)**  
+- Contributed to product engineering and AI-driven features.
 
 ---
 
-## 🧪 Currently Making
+### Past
+**Founding Engineer — StarCy**  
+- Built the product end-to-end from initial architecture to production.
+- They stole the app I built from the ground up and terminated me.
 
-- **Wind** – Bunch of OSS projects
-- **Breeze** - [Launching soon](https://breeze.engineer/)
-- **Wake** - Hardware-first coding agent - getting a complete redesign
-- **Takeaways App** – cool stuff 
-- **$0** – yeah
-- **CLI agents** - Patriot and Wake
+**Co-Founder — [takeawaysapp](https://www.takeawaysai.io/)**
+- Built AI for memories using vector embeddings, semantic search, and context handling.
+
+**Co-Founder — [Dynaprompts](https://dynaprompts.com)** 
+- Prompt infrastructure and tooling platform.  
+- [X / Twitter](https://x.com/dynaprompts)
+
+**AI Engineer — [splai.dev](https://splai.dev)**  
+- Worked on applied AI systems and integrations.
+  
+**Co-Founder — [adcreateai.com](https://adcreateai.com)**  
+
+**Founder — OnboardingBuddy** (Acquired)  
+- AI-powered repository analyzer for developer onboarding.
 
 ---
 
-## 📚 Other stuff
+## Projects & Products
 
-- [Monarch Coder](https://monarchdex.vercel.app/) - Ran out of credits so won't work
-- [Luna](https://thatslunabased.vercel.app) - Website for Luna
+### Flagship
 
+**[Breeze](https://breeze.engineer/)**  
+Autonomous cloud coding agent capable of shipping production code (no longer maintained).
 
+**[Wind](https://trywind.vercel.app)** · [GitHub](https://github.com/Try-Wind)  
+Open-source ecosystem for autonomous coding agents and developer tools.
+
+**[Wake](https://github.com/Try-Wind/Wake)**  
+Hardware-first coding agent developed within the Wind ecosystem.
+
+---
+
+**[VibeGuard](https://vibeguard.tech)**  - AI-powered security insights for modern developers.
+**[Monarch Coder](https://monarchdex.vercel.app/)** — AI coding agent (paused due to credit limits)  
+**[Luna Website](https://thatslunabased.vercel.app)**  
+**[Patriot](https://github.com/adhyaay-karnwal/patriot)** - AI terminal agent for cybersecurity/cyberpatriot
+---
+
+## Currently Building
+
+- **[Nura](https://www.nura.construction/)** — AI infrastructure for real estate  
+- **Wind** — Open-source autonomous developer tools  
+- **Computer-use agents** — Desktop agents for general workflows(such as DriverAI, LUNA OS, and Wind)
+- **CLI agents** — Patriot and Wake  
+
+---
+
+## Skills
+
+Frontend engineering and design, backend architecture, LLMs, RAG systems, and applied AI.  
+Known for rapid iteration and high-velocity execution.
