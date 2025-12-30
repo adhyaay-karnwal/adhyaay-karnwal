@@ -7,6 +7,7 @@ AI intelligence layer for real estate (valued at $2M+)
 
 **Software Engineer — [Luna](https://x.com/thatslunabased)** 
 - Contributed to product engineering and AI-driven features.
+
 ---
 
 ### Past
@@ -23,6 +24,7 @@ AI intelligence layer for real estate (valued at $2M+)
 **Co-Founder — [adcreateai.com](https://adcreateai.com)**  
 
 **Founder — OnboardingBuddy (Acquired)**  - AI-powered repository analyzer for developer onboarding.
+
 ---
 
 ## Projects & Products
@@ -36,6 +38,7 @@ Open-source ecosystem for autonomous coding agents and developer tools.
 
 **[Wake](https://github.com/Try-Wind/Wake)**
 Hardware-first coding agent developed within the Wind ecosystem.
+
 ---
 ### Other
 - **[VibeGuard](https://vibeguard.tech)**  - AI-powered security insights for modern developers.
