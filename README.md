@@ -33,13 +33,13 @@ Autonomous cloud coding agent capable of shipping production code (no longer mai
 **[Wind](https://trywind.vercel.app)** · [GitHub](https://github.com/Try-Wind)  
 Open-source ecosystem for autonomous coding agents and developer tools.
 
-**[Wake](https://github.com/Try-Wind/Wake)**  
+**[Wake](https://github.com/Try-Wind/Wake)** 
 Hardware-first coding agent developed within the Wind ecosystem.
 ---
 
 - **[VibeGuard](https://vibeguard.tech)**  - AI-powered security insights for modern developers.
 - **[Monarch Coder](https://monarchdex.vercel.app/)** — AI coding agent (paused due to credit limits)  
-**- [Luna Website](https://thatslunabased.vercel.app)**  
+- **[Luna Website](https://thatslunabased.vercel.app)**  
 - **[Patriot](https://github.com/adhyaay-karnwal/patriot)** - AI terminal agent for cybersecurity/cyberpatriot
 ---
 
