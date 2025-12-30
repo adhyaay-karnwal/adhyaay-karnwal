@@ -5,11 +5,12 @@
 AI intelligence layer for real estate (valued at $2M+)  
 - Building core backend systems, AI infrastructure, and production deployments.
 
-**Software Engineer — [Luna](https://x.com/thatslunabased)**  -Contributed to product engineering and AI-driven features.
+**Software Engineer — [Luna](https://x.com/thatslunabased)** 
+- Contributed to product engineering and AI-driven features.
 ---
 
 ### Past
-**Founding Engineer — StarCy**  
+**Founding Engineer — [StarCy](https://starcy.ai/)**  
 - Built the product end-to-end from initial architecture to production.
 - They stole the app I built from the ground up and terminated me.
 
@@ -21,7 +22,7 @@ AI intelligence layer for real estate (valued at $2M+)
   
 **Co-Founder — [adcreateai.com](https://adcreateai.com)**  
 
-**Founder — OnboardingBuddy** (Acquired)  - AI-powered repository analyzer for developer onboarding.
+**Founder — OnboardingBuddy (Acquired)**  - AI-powered repository analyzer for developer onboarding.
 ---
 
 ## Projects & Products
@@ -33,10 +34,10 @@ Autonomous cloud coding agent capable of shipping production code (no longer mai
 **[Wind](https://trywind.vercel.app)** · [GitHub](https://github.com/Try-Wind)  
 Open-source ecosystem for autonomous coding agents and developer tools.
 
-**[Wake](https://github.com/Try-Wind/Wake)** 
+**[Wake](https://github.com/Try-Wind/Wake)**
 Hardware-first coding agent developed within the Wind ecosystem.
 ---
-
+### Other
 - **[VibeGuard](https://vibeguard.tech)**  - AI-powered security insights for modern developers.
 - **[Monarch Coder](https://monarchdex.vercel.app/)** — AI coding agent (paused due to credit limits)  
 - **[Luna Website](https://thatslunabased.vercel.app)**  
