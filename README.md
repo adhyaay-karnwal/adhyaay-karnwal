@@ -2,7 +2,7 @@
 
 ### Current
 **Forward-Deployed Backend Engineer — [Nura](https://www.nura.construction/)**  
-AI intelligence layer for real estate (valued at $2M+)  
+AI intelligence layer for real estate (valued at $35M+)  
 - Building core backend systems, AI infrastructure, and production deployments.
 - Designed and deployed their [landing page](https://nuraconstruction.vercel.app/) from scratch in 3 hours
 
