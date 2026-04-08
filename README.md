@@ -1,7 +1,12 @@
 ## Experience
 
 ### Current
-**Forward-Deployed Backend Engineer — [Nura](https://www.nura.construction/)**  
+- **[Petal](https://petal.fyi)** — AI real estate intelligence platform
+  - Building the full product: AI chat, pro forma modeling, zoning/permit data layers, deal automation flows, and a proprietary vault for firm-specific context.
+  - Replaces a week of manual analyst work (CoStar, county assessors, environmental reports, comps) with a single prompt.
+  - Combines live external data with uploaded documents and deal history — grounded, underwriting-quality output at inference speed.
+
+**Forward-Deployed Backend Engineer — [Nura](https://www.nura.construction/)**  (PAUSED UNTIL SUMMER)
 AI intelligence layer for real estate (valued at $35M+)  
 - Building core backend systems, AI infrastructure, and production deployments.
 - (side quest) Designed and deployed their [landing page](https://nuraco.vercel.app/) from scratch in 3 hours
@@ -31,6 +36,9 @@ AI intelligence layer for real estate (valued at $35M+)
 ## Projects & Products
 
 ### Flagship
+**[Petal](https://petal.fyi)**
+AI-native real estate intelligence platform for developers and investment teams. Connects zoning databases, permit records, market comps, environmental datasets, and proprietary deal history — then reasons across all of it in seconds. Features include AI chat, pro forma generation (NOI, DSCR, IRR), a document vault, and custom deal automation agents. Not a chatbot bolted onto public data — a full analyst layer.
+
 **[Breeze](https://breeze.engineer/)**  
 Autonomous cloud coding agent capable of shipping production code (no longer maintained).
 
