@@ -7,4 +7,4 @@ Built [breeze.engineer](https://breeze.engineer/) </br>
 Prev founder @ [starcy.ai](https://starcy.ai/) - left bc of founder theft(interesting experience) </br>
 Prev backend eng @ [nura.construction](https://www.nura.construction/) </br> 
 Prev eng @ [10x.app](https://www.10x.app/) </br>
-Prev cofounder @ [takeaways](https://www.takeawaysapp.io/) </br>
+Prev cofounder @ [takeawaysapp.io](https://www.takeawaysapp.io/) </br>
