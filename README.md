@@ -1,3 +1,5 @@
+Currently building something new in stealth </br> </br>
+
 Eng intern @ [Oasis](https://joinoasis.com) (aka [mercury.build](https://mercury.build/))</br>
 Built [petal.fyi](https://petal.fyi/) </br>
 Built [spce.me](https://spce.me/) </br>
