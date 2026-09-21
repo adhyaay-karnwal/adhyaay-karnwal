@@ -1,7 +1,7 @@
 Eng intern @ [Oasis](https://joinoasis.com) (aka [mercury.build](https://mercury.build/))</br> </br>
 
-Sidequesting and founded a better chatgpt [nectar.day](https://nectar.day/) </br>
-Built and founded @ [petal.fyi](https://petal.fyi/) </br> 
+Sidequesting a better chatgpt [nectar.day](https://nectar.day/) </br>
+Founder @ [petal.fyi](https://petal.fyi/) </br> 
 Built @ [spce.me](https://spce.me/) </br>
 Built @ [pensloop.com](https://pensloop.com/) for my brother </br>
 Built @ [breeze.engineer](https://breeze.engineer/) </br>
