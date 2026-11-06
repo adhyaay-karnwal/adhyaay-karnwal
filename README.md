@@ -1,6 +1,7 @@
-Eng intern @ [Oasis](https://joinoasis.com) (aka [mercury.build](https://mercury.build/))</br> </br>
+Eng intern @ [Oasis](https://joinoasis.com) backed by a16z</br> </br>
 
 Sidequesting a better chatgpt [nectar.day](https://nectar.day/) </br>
+Sidequesting my own app [Handles AI](https://handlesai.vercel.app/) </br>
 Founder @ [petal.fyi](https://petal.fyi/) </br> 
 Built @ [spce.me](https://spce.me/) </br>
 Built @ [pensloop.com](https://pensloop.com/) for my brother </br>
